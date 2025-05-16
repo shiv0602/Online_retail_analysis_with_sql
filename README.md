@@ -1,4 +1,5 @@
 # Online_retail_analysis_with_sql
+![](https://github.com/shiv0602/Online_retail_analysis_with_sql/blob/main/istockphoto-1266684278-612x612.jpg)
 -- 1) Retrieve all books in the "Fiction" genre:
 
 
